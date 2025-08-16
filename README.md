@@ -4,6 +4,9 @@
 
 This repository is part of my Maturaarbeit and contains implementations of factoring algorithms in python for both classical and quantum computers, using qiskit and other libraries to achieve this task. It also contains measurements of benchmarks made using those files.
 
+## Attribution
+This Shor's algorithm implementation is a heavy modified version of code originally published by @borjan-val at https://github.com/borjan-val/qiskit-shor-demo (GPL-3.0). That repo is no longer available. The version here has been heavily refactored and commented for clarity, and updated to work with real IBM Quantum hardware and current Qiskit versions.
+
 ## Project Structure
 
 * **Classical/:** Traditional factorization implementations and benchmarks
