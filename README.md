@@ -32,3 +32,9 @@ This Shor's algorithm implementation is a heavy modified version of code origina
 * Uses high-precision timing (`time.perf_counter()`) for accurate measurements
 * Supports both local quantum simulation and IBM Cloud quantum hardware
 * Includes noise handling and retry logic for real quantum device limitations
+
+## Sources
+***
+
+This repository is part of the learning process for my MA (Maturaarbeit), but it is **NOT** an official part of the MA itself.
+The sources used for this project are a mix of the academic literature cited in the MA and also various additional resources (e.g., official documentation, tutorials, and community forums) that were consulted during development.
